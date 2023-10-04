@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">737128607355</string>
+    <string name="google_api_key" translatable="false">AIzaSyAfRRoVlQV64eS0w0ZsNCseG-hC71KO-zQ</string>
+    <string name="google_app_id" translatable="false">1:737128607355:android:871746a6dcf8abd335bcde</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAfRRoVlQV64eS0w0ZsNCseG-hC71KO-zQ</string>
+    <string name="google_storage_bucket" translatable="false">altrudonateappaneke.appspot.com</string>
+    <string name="project_id" translatable="false">altrudonateappaneke</string>
+</resources>

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.altrudonationappaneke.app-mergeReleaseResources-34:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\user1\\.gradle\\caches\\transforms-3\\04be009c75934f7187a05c3f74c70964\\transformed\\appcompat-1.4.1\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
